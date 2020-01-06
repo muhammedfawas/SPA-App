@@ -1,0 +1,13 @@
+
+
+img{
+    width:100%;
+    height:600px;
+}
+.body{
+    position: relative;
+    top: -600px;
+    left: 1128px;
+    opacity: .8;
+
+}

@@ -1,0 +1,9 @@
+.body {
+  background: url("../../assets/images/re.png");
+  background-size: cover;
+  height: 100vh;
+  padding-top: 3px;
+}
+.card {
+  opacity: 0.8;
+}

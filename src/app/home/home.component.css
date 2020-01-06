@@ -1,0 +1,42 @@
+body{
+    
+    padding: 0;
+}
+.left{
+    display: inline-block;
+    width:25%;
+    
+    background:rgb(192, 188, 188);
+    height:650px;
+    float:left;
+}
+.right{
+    margin-left: 5%;
+    display: inline-block;
+    width:50%;
+}
+h3{
+    border-bottom: 1px solid gray;
+}
+p{
+    color:gray;
+    font-size: 16px;
+}
+li{
+    font-size: 15px;
+}
+label{
+font-weight: bold;
+color:black;
+
+}
+.fa{
+    font-size: 20px;
+}
+.m{
+    padding-left: 10px;
+}
+.subm{
+    margin-left: 13px;
+    margin-right: 13px;
+}
